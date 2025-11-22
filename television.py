@@ -1,6 +1,6 @@
 class Television:
     """
-    A class representing details for a Television object.
+    A class representing details for a Television object
     """
 
     """
